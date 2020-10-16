@@ -7,7 +7,7 @@
 4. cd qoffer/client   \
 5. npm install        \
 6. npm start  
-#require sql server to run the app
+#require mysql server to run the app
 
 
 

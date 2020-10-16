@@ -6,7 +6,8 @@
 #for front-end  
 4. cd qoffer/client   \
 5. npm install        \
-6. npm start             
+6. npm start  
+#require sql server to run the app
 
 
 
